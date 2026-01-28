@@ -1,14 +1,14 @@
 # 💫 About Me:
-<table>
+<table border="0">
   <tr>
-    <td>
+    <td width="70%" style="border: none;">
       Hi👋 I'm <b>Noval</b><br><br>
       I am a <b>Fullstack Developer and Designer</b> based in Indonesia. <br>
       I bridge the gap between complex backend logic and elegant frontend presentation. <br>
       My goal is to create digital products that are not only functional but also a delight to use.
     </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="150px">
+    <td width="30%" align="right" style="border: none;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
     </td>
   </tr>
 </table>
