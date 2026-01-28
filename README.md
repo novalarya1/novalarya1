@@ -1,4 +1,4 @@
-<img src="166227456_440252093746906_6757850349995623862_n.jpg" width="100%">
+<img src="Noval Arya.jpg" width="100%">
 
 <table border="0">
   <tr>
