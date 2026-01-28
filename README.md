@@ -1,6 +1,17 @@
 # 💫 About Me:
-Hi👋 I'm Noval<br><br>I am a Fullstack Developer and Designer based in Indonesia. <br>I bridge the gap between complex backend logic and elegant frontend presentation. <br>My goal is to create digital products that are not only functional but also a delight to use.
-
+<table>
+  <tr>
+    <td>
+      Hi👋 I'm <b>Noval</b><br><br>
+      I am a <b>Fullstack Developer and Designer</b> based in Indonesia. <br>
+      I bridge the gap between complex backend logic and elegant frontend presentation. <br>
+      My goal is to create digital products that are not only functional but also a delight to use.
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="150px">
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EKTQ3btb3X) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/noval.arya.75033) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nvl.ya_/?__pwa=1) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/LX6ITccca) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@gyaaapiu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@%E3%83%8E%E3%83%90%E3%83%AB%E3%82%A2%E3%83%AA%E3%83%A4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baiqdewi2626@gmail.com) 
