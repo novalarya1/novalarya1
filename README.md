@@ -15,25 +15,24 @@
 </table>
 
 ## 🌐 Connect with Me:
-
 <p align="left">
   <a href="https://discord.gg/EKTQ3btb3X" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord" />
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord" />
   </a>
   <a href="https://www.instagram.com/nvl.ya_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram" />
   </a>
   <a href="https://www.tiktok.com/@gyaaapiu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tiktok" height="40" alt="tiktok" />
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" height="35" alt="tiktok" />
   </a>
   <a href="https://www.youtube.com/@%E3%83%8E%E3%83%90%E3%83%AB%E3%82%A2%E3%83%AA%E3%83%A4" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="40" alt="youtube" />
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="youtube" />
   </a>
   <a href="mailto:baiqdewi2626@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail" />
   </a>
   <a href="https://www.facebook.com/noval.arya.75033" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="30" style="vertical-align:top; margin-top:5px" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="facebook" />
   </a>
 </p>
 
