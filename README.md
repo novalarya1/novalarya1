@@ -52,11 +52,6 @@ Design & Tools
 Gamer Zone
 <p align="left"> <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /> <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot Games" /> </p>
 
-# 📊 GitHub Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=novalarya1&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="Noval's GitHub Stats" height="170" /> <img src="https://nirzak-streak-stats.vercel.app/?user=novalarya1&theme=midnight-purple&hide_border=false" alt="GitHub Streak" height="170" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novalarya1&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="380" /> </p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=novalarya1&icon=10&color=0)](https://visitcount.itsvg.in)
 
