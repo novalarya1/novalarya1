@@ -15,6 +15,7 @@
 
 <div align="center">
   <h2>🌐 Connect with Me</h2>
+  
   <a href="https://discord.gg/EKTQ3btb3X" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="discord" />
   </a>
