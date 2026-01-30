@@ -34,6 +34,7 @@
   <a href="mailto:baiqdewi2626@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="gmail" />
   </a>
+  
   <a href="https://www.facebook.com/noval.arya.75033" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="30" alt="facebook" />
   </a>
