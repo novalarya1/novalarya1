@@ -18,6 +18,7 @@
   <a href="https://discord.gg/EKTQ3btb3X" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="discord" />
   </a>
+  
   <a href="https://www.instagram.com/nvl.ya_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="instagram" />
   </a>
