@@ -22,6 +22,7 @@
   <a href="https://www.instagram.com/nvl.ya_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="instagram" />
   </a>
+  
   <a href="https://www.tiktok.com/@gyaaapiu" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" height="30" alt="tiktok" />
   </a>
