@@ -1,6 +1,8 @@
 <div align="center">
   <img src="Noval Arya.jpg" width="1000" style="border-radius: 50%;" alt="Noval Arya">
+  
   <br>
+  
   <h3>Fullstack Developer & Designer 🇮🇩</h3>
   
   <p>
