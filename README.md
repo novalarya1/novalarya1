@@ -26,6 +26,7 @@
   <a href="https://www.tiktok.com/@gyaaapiu" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" height="30" alt="tiktok" />
   </a>
+  
   <a href="https://www.youtube.com/@%E3%83%8E%E3%83%90%E3%83%AB%E3%82%A2%E3%83%AA%E3%83%A4" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" height="30" alt="youtube" />
   </a>
