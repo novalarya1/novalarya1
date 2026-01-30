@@ -71,10 +71,6 @@
 <hr>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=novalarya1&icon=10&color=0" />
-  </a>
-  <br><br>
   <a href="https://buymeacoffee.com/nvl.ya" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" />
   </a>
